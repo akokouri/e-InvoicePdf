@@ -1,9 +1,9 @@
 ﻿using MvvmCross.Platform;
 using MvvmCross.Plugins.Sqlite;
 using System.Collections.Generic;
-using e_InvoicePdf.Core.Model;
+using eInvoicePdf.Core.Model;
 
-namespace e_InvoicePdf.Core.Repository
+namespace eInvoicePdf.Core.Repository
 {
     public abstract class BaseRepository<T> : IRepository<T> where T : BaseModel
     {

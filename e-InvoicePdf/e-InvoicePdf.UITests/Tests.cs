@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using Xamarin.UITest;
 
-namespace e_InvoicePdf.UITests
+namespace eInvoicePdf.UITests
 {
     [TestFixture(Platform.Android, Category = "Andorid")]
     [TestFixture(Platform.iOS, Category = "iOS")]

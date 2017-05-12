@@ -8,8 +8,8 @@
     <ProjectGuid>{74043E51-EF7B-4CE1-AF3F-7612ED1D05B6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>e_InvoicePdf.Core</RootNamespace>
-    <AssemblyName>e-InvoicePdf.Core</AssemblyName>
+    <RootNamespace>eInvoicePdf.Core</RootNamespace>
+    <AssemblyName>eInvoicePdf.Core</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

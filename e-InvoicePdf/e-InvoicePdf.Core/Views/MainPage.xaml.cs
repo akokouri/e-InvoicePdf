@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace e_InvoicePdf.Core.Views
+namespace eInvoicePdf.Core.Views
 {
     public partial class MainPage : ContentPage
     {

@@ -6,7 +6,7 @@ using MvvmCross.Forms.Presenter.Droid;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Core.Views;
 
-namespace e_InvoicePdf.Droid
+namespace eInvoicePdf.Droid
 {
     public class Setup : MvxAndroidSetup
     {

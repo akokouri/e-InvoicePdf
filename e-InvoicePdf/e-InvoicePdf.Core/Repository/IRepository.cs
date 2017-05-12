@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace e_InvoicePdf.Core.Repository
+namespace eInvoicePdf.Core.Repository
 {
     public interface IRepository<T>
     {

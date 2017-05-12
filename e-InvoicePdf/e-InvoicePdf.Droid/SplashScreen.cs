@@ -3,7 +3,7 @@ using Android.Content.PM;
 using MvvmCross.Droid.Views;
 using Xamarin.Forms;
 
-namespace e_InvoicePdf.Droid
+namespace eInvoicePdf.Droid
 {
     [Activity(
         Label = "e_InvoicePdf.Droid"

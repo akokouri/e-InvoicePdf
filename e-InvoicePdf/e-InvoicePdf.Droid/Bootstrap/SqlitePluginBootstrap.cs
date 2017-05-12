@@ -1,6 +1,6 @@
 using MvvmCross.Platform.Plugins;
 
-namespace e_InvoicePdf.Droid.Bootstrap
+namespace eInvoicePdf.Droid.Bootstrap
 {
     public class SqlitePluginBootstrap
         : MvxPluginBootstrapAction<MvvmCross.Plugins.Sqlite.PluginLoader>

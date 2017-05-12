@@ -1,6 +1,6 @@
 ﻿using SQLite.Net.Attributes;
 
-namespace e_InvoicePdf.Core.Model
+namespace eInvoicePdf.Core.Model
 {
     public class BaseModel
     {

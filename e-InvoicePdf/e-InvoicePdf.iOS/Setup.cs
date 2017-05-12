@@ -7,7 +7,7 @@ using MvvmCross.Forms.Presenter.iOS;
 using MvvmCross.Forms.Presenter.Core;
 using MvvmCross.Platform;
 
-namespace e_InvoicePdf.iOS
+namespace eInvoicePdf.iOS
 {
     public class Setup : MvxIosSetup
     {

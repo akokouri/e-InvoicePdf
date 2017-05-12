@@ -1,7 +1,7 @@
 using System.Diagnostics;
 using System.Globalization;
 
-namespace e_InvoicePdf.Droid.Services
+namespace eInvoicePdf.Droid.Services
 {
     public class LocalizeService : Core.Services.ILocalizeService
     {

@@ -2,7 +2,7 @@
 using System;
 using System.Globalization;
 
-namespace e_InvoicePdf.iOS.Services
+namespace eInvoicePdf.iOS.Services
 {
     public class LocalizeService : Core.Services.ILocalizeService
     {

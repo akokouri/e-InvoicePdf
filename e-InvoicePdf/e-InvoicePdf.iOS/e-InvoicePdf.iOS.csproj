@@ -6,7 +6,7 @@
     <ProjectGuid>{88A375C3-8567-47B7-A040-CF48B7049986}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Exe</OutputType>
-    <RootNamespace>e_InvoicePdf.iOS</RootNamespace>
+    <RootNamespace>eInvoicePdf.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <AssemblyName>XamFormsMvxTemplateiOS</AssemblyName>
     <NuGetPackageImportStamp>

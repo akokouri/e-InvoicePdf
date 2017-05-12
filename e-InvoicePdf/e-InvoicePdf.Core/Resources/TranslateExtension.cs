@@ -4,7 +4,7 @@ using System.Globalization;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
-namespace e_InvoicePdf.Core.Resources
+namespace eInvoicePdf.Core.Resources
 {
     [ContentProperty("Text")]
     public class TranslateExtension : IMarkupExtension

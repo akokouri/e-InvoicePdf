@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace e_InvoicePdf.Core.Services
+namespace eInvoicePdf.Core.Services
 {
     public interface ILocalizeService
     {

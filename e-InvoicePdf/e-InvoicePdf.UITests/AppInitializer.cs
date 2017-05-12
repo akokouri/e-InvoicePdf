@@ -2,7 +2,7 @@
 using Xamarin.UITest;
 using Xamarin.UITest.Utils;
 
-namespace e_InvoicePdf.UITests
+namespace eInvoicePdf.UITests
 {
     public class AppInitializer
     {

@@ -1,6 +1,6 @@
 using MvvmCross.Platform.Plugins;
 
-namespace e_InvoicePdf.iOS.Bootstrap
+namespace eInvoicePdf.iOS.Bootstrap
 {
     public class SqlitePluginBootstrap
         : MvxLoaderPluginBootstrapAction<MvvmCross.Plugins.Sqlite.PluginLoader, MvvmCross.Plugins.Sqlite.iOS.Plugin>

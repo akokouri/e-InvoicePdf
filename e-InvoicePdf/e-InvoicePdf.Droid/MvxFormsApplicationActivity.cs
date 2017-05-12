@@ -9,7 +9,7 @@ using MvvmCross.Core.ViewModels;
 using Android.App;
 using Android.Content.PM;
 
-namespace e_InvoicePdf.Droid
+namespace eInvoicePdf.Droid
 {
     [Activity(Label = "MvxFormsApplicationActivity", ScreenOrientation = ScreenOrientation.Portrait)]
     public class MvxFormsApplicationActivity : FormsApplicationActivity

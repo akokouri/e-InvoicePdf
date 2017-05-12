@@ -1,6 +1,6 @@
 ﻿using MvvmCross.Core.ViewModels;
 
-namespace e_InvoicePdf.Core.ViewModels
+namespace eInvoicePdf.Core.ViewModels
 {
     public class BaseViewModel : MvxViewModel
     {

@@ -1,4 +1,4 @@
-﻿namespace e_InvoicePdf.Core.ViewModels
+﻿namespace eInvoicePdf.Core.ViewModels
 {
     public class MainViewModel : BaseViewModel
     {

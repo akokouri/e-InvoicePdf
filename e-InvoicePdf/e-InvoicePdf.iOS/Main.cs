@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace e_InvoicePdf.iOS
+namespace eInvoicePdf.iOS
 {
     public class Application
     {

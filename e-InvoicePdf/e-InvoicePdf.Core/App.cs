@@ -3,7 +3,7 @@ using MvvmCross.Platform.IoC;
 using Xamarin.Forms;
 using MvvmCross.Platform;
 
-namespace e_InvoicePdf.Core
+namespace eInvoicePdf.Core
 {
     public class App : MvxApplication
     {

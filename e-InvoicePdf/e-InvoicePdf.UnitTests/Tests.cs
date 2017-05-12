@@ -1,6 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace e_InvoicePdf.UnitTests
+namespace eInvoicePdf.UnitTests
 {
     [TestClass]
     public class Tests

@@ -4,7 +4,7 @@ using MvvmCross.iOS.Platform;
 using MvvmCross.Platform;
 using UIKit;
 
-namespace e_InvoicePdf.iOS
+namespace eInvoicePdf.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the
     // User Interface of the application, as well as listening (and optionally responding) to application events from iOS.
